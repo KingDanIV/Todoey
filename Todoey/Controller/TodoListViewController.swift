@@ -120,6 +120,10 @@ class TodoListViewController: UITableViewController {
         tableView.reloadData()
     }
     
+    //MARK: Delete Data From Swipe
+    
+    
+    
 }
 
 //MARK: - Search Bar Methods
